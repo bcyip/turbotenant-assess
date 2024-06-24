@@ -16,13 +16,14 @@
 - (P2) Refresh logs user out and takes to login page, need cookies for login
 3. Adding property
 - (P2) Able to add duplicate data
+- (P2) Long Title and/or long description where text does not have a space does not format properly, shifts action buttons (delete, add lead, edit) off screen potentially
 - (P3) Able to add property without title or description
-- (P3) Failure to add property error could be more descriptive
--- ie. long title not allowed, what is max length?  max length of description?
+- (P3) Failure to add property error should specify why it was unable to add
 4. Lead Page
 - (P2) email not validated before being added
 - (P2) Able to add duplicate data
 - (P2) able to add lead with no values
+- (P2) Long Title and/or long email and/or long notes where text does not have a space does not format properly, shifts action buttons (delete, add lead, edit) off screen potentially
 - (P3) Title and Description if extra long is not centered (Full Lorem Ipsum...est laborum.)
 - (P3) Failure to add lead error could be more descriptive
 
